@@ -351,6 +351,6 @@ p3 <- ggplot(
     labels = function(x) parse(text = x)
     )
 
-ggsave(p3, filename = "figures/fig1_v2.png",
-       dpi = 300, width = 9, height = 11, unit = "in")
+ggsave(p3, filename = "figures/fig1.png",
+       dpi = 300, width = 11, height = 11, unit = "in")
 
