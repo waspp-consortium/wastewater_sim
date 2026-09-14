@@ -1,0 +1,23 @@
+virus,sample_type,average duration,duration_l,duration_u,perc_symp,perc_symp_l,perc_symp_u,doi_perc_symp_1,doi_perc_symp_2
+SARS-CoV-2,Stool,3,,,67.6,60.5,74.7,https://doi.org/10.3390/vaccines10071049 ,
+MERS-CoV,Urine,0.5,,,,50,87.5,https://doi.org/10.1016/j.tmaid.2019.101520,
+MERS-CoV,Stool,,1,3,,50,87.5,https://doi.org/10.1016/j.tmaid.2019.101520 ,
+ZIKV,Urine,2,1,3,,27,50,https://doi.org/10.1093/aje/kwy189 ,
+DENV,Urine,2,1,3,,13,41,https://doi.org/10.1371/journal.pntd.0005926,https://doi.org/10.1016/j.heliyon.2023.e20069 
+YFV,Urine,3.5,,,45,26,63,https://doi.org/10.1093/trstmh/tru092 ,
+EBOV,Urine,,1,5,97.7,95.7,98.9,https://doi.org/10.1016/S1473-3099(17)30111-1,
+EBOV,Stool,,1,4,97.7,95.7,98.9,https://doi.org/10.1016/S1473-3099(17)30111-1,
+CCHFV,Urine,,1,2,,12,21.5,https://doi.org/10.4269/ajtmh.1980.29.260,https://doi.org/10.3201/eid1804.111374
+CCHFV,Stool,1,,,,12,21.5,https://doi.org/10.4269/ajtmh.1980.29.260 ,https://doi.org/10.3201/eid1804.111374
+MPXV,Urine,,2,3,,93.5,100,https://doi.org/10.7326/M22-2183 ,https://doi.org/10.1016/S2666-5247(23)00248-3 
+MPXV,Stool,NA,2,3,,93.5,100,https://doi.org/10.7326/M22-2183 ,https://doi.org/10.1016/S2666-5247(23)00248-3 
+LASV,Urine,,2,6,,1,20,https://media.tghn.org/medialibrary/2023/03/CEPI_Enable_2022_Abuja_Report_Final.pdf ,
+LASV,Stool,NA,NA,NA,,1,20,https://media.tghn.org/medialibrary/2023/03/CEPI_Enable_2022_Abuja_Report_Final.pdf ,
+IAV,Urine,3,,,84,72,96,https://doi.org/10.1097/ede.0000000000000340 ,
+IAV,Stool,,3,4,84,72,96,https://doi.org/10.1097/ede.0000000000000340 ,
+CHIKV,Urine,3.5,,,55,40,70,https://doi.org/10.1093/cid/ciy535 ,
+NIV,Urine,NA,NA,NA,,55,83,https://doi.org/10.1002/rmv.2010 ,
+HTNV,Urine,NA,NA,NA,,0,7,https://doi.org/10.4269/ajtmh.1990.42.612 ,https://doi.org/10.3201/eid1710.101717 
+SFTSV,Urine,NA,NA,NA,,NA,NA,https://doi.org/10.1080/21645515.2019.1633875 ,
+SFTSV,Stool,NA,NA,NA,,NA,NA,https://doi.org/10.1080/21645515.2019.1633875 ,
+PV,Stool,NA,1,6,,1,5,https://bestpractice.bmj.com/topics/en-gb/902,https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/poliomyelitis.html
