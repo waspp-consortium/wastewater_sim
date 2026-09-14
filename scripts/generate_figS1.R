@@ -2,7 +2,7 @@
 # zoonotic archetypes
 
 # It depends on:
-# - results/simfig_s1.png generated whilst generating fig4C, S2 and S3
+# - results/simfig_s1.rds generated whilst generating fig4C, S2 and S3
 
 # It produces:
 # - figures/figS1.png

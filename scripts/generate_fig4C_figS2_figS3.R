@@ -64,7 +64,7 @@ new_labels <- as_labeller(c(
   "0.001" = "0.1% probability of clinical diagnosis"
 ))
 
-saveRDS(final_summary_metrics, file = here("results/simfig_s1.png"))
+saveRDS(final_summary_metrics, file = here("results/simulations/simfig_s1.rds"))
 
 # Plot Figure 4C (performance according to infections prior to detection)
 pS3 <- ggplot(final_summary_metrics%>%
