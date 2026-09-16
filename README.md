@@ -1,7 +1,7 @@
 # wastewater_sim
 This repository contains code and data supporting the results presented in the manuscript "The public health value of wastewater surveillance for viruses with pandemic potential: a modelling study". We have also released the package [wastewatchR](https://github.com/mrc-ide/wastewatchR/releases/tag/paper1_version1) which we created to implement our modelling framework that we used to simulate zoonotic spillover, human-to-human transmission, and wastewater/clinical surveillance.
 
-Within this repository is everything you need to recreate the results in our manuscript, with the exception of the SARS-CoV-2 case data shared with us by Dr Joanne Hewitt and Dr Bridget Armstrong which we used to define the relationship between relative viral load shed to wastewater and probability of wastewater detection. 
+Within this repository is everything you need to recreate the results in our manuscript, with the exception of the SARS-CoV-2 data shared by Dr Joanne Hewitt and Bridget Armstrong (https://doi.org/10.1016/j.watres.2021.118032) which we used to define the relationship between relative viral load shed to wastewater and probability of wastewater detection. 
 
 ## Structure of the repository
 
@@ -25,7 +25,7 @@ Within this repository is everything you need to recreate the results in our man
 ## Use of the repository
 The code, data and figures can be examined within the repository, or reran from a forked clone of the repository. In order to rerun the majority of the analysis supporting our manuscript you should first fork the repository, create your own local copy and then follow the steps below. 
 
-Please note you will not be able to run scripts `3_estimate_effective_sc2_shedders_NZ.R` or `4_refit_sensitivity_model_sc2_NZ_figS4.R` as these depend on case data from Hewitt et al., however the summary outputs of the refit model are provided to facilitate the rerunning of downstream analyses.
+Please note you will not be able to run scripts `3_estimate_effective_sc2_shedders_NZ.R` or `4_refit_sensitivity_model_sc2_NZ_figS4.R` as these depend on data from Hewitt et al. in a particular format which can be requested directly from the authors, however the summary outputs of the refit model are provided to facilitate the rerunning of downstream analyses.
 
 ### 1. Install wastewatchR version paper1_version1
 The version of the package used to run the analysis in the manuscript can be downloaded using:
