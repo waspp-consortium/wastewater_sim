@@ -1,7 +1,7 @@
 # wastewater_sim
 This repository contains code and data supporting the results presented in the manuscript "The public health value of wastewater surveillance for viruses with pandemic potential: a modelling study". We have also released the package [wastewatchR](https://github.com/mrc-ide/wastewatchR/releases/tag/paper1_version1) which we created to implement our modelling framework that we used to simulate zoonotic spillover, human-to-human transmission, and wastewater/clinical surveillance.
 
-Within this repository is everything you need to recreate the results in our manuscript, with the exception of the SARS-CoV-2 data shared by Dr Joanne Hewitt and Bridget Armstrong (https://doi.org/10.1016/j.watres.2021.118032) which we used to define the relationship between relative viral load shed to wastewater and probability of wastewater detection. 
+Within this repository is everything you need to recreate the results in our manuscript, with the exception of the SARS-CoV-2 data shared by [Hewitt et al](https://doi.org/10.1016/j.watres.2021.118032) which we used to define the relationship between relative viral load shed to wastewater and probability of wastewater detection. 
 
 ## Structure of the repository
 
